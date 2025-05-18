@@ -1,0 +1,1262 @@
+[
+  {
+    "techniqueID": "T0001",
+    "name": "Technique 1",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0001."
+  },
+  {
+    "techniqueID": "T0002",
+    "name": "Technique 2",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0002."
+  },
+  {
+    "techniqueID": "T0003",
+    "name": "Technique 3",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0003."
+  },
+  {
+    "techniqueID": "T0004",
+    "name": "Technique 4",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0004."
+  },
+  {
+    "techniqueID": "T0005",
+    "name": "Technique 5",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0005."
+  },
+  {
+    "techniqueID": "T0006",
+    "name": "Technique 6",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0006."
+  },
+  {
+    "techniqueID": "T0007",
+    "name": "Technique 7",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0007."
+  },
+  {
+    "techniqueID": "T0008",
+    "name": "Technique 8",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0008."
+  },
+  {
+    "techniqueID": "T0009",
+    "name": "Technique 9",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0009."
+  },
+  {
+    "techniqueID": "T0010",
+    "name": "Technique 10",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0010."
+  },
+  {
+    "techniqueID": "T0011",
+    "name": "Technique 11",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0011."
+  },
+  {
+    "techniqueID": "T0012",
+    "name": "Technique 12",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0012."
+  },
+  {
+    "techniqueID": "T0013",
+    "name": "Technique 13",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0013."
+  },
+  {
+    "techniqueID": "T0014",
+    "name": "Technique 14",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0014."
+  },
+  {
+    "techniqueID": "T0015",
+    "name": "Technique 15",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0015."
+  },
+  {
+    "techniqueID": "T0016",
+    "name": "Technique 16",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0016."
+  },
+  {
+    "techniqueID": "T0017",
+    "name": "Technique 17",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0017."
+  },
+  {
+    "techniqueID": "T0018",
+    "name": "Technique 18",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0018."
+  },
+  {
+    "techniqueID": "T0019",
+    "name": "Technique 19",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0019."
+  },
+  {
+    "techniqueID": "T0020",
+    "name": "Technique 20",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0020."
+  },
+  {
+    "techniqueID": "T0021",
+    "name": "Technique 21",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0021."
+  },
+  {
+    "techniqueID": "T0022",
+    "name": "Technique 22",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0022."
+  },
+  {
+    "techniqueID": "T0023",
+    "name": "Technique 23",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0023."
+  },
+  {
+    "techniqueID": "T0024",
+    "name": "Technique 24",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0024."
+  },
+  {
+    "techniqueID": "T0025",
+    "name": "Technique 25",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0025."
+  },
+  {
+    "techniqueID": "T0026",
+    "name": "Technique 26",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0026."
+  },
+  {
+    "techniqueID": "T0027",
+    "name": "Technique 27",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0027."
+  },
+  {
+    "techniqueID": "T0028",
+    "name": "Technique 28",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0028."
+  },
+  {
+    "techniqueID": "T0029",
+    "name": "Technique 29",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0029."
+  },
+  {
+    "techniqueID": "T0030",
+    "name": "Technique 30",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0030."
+  },
+  {
+    "techniqueID": "T0031",
+    "name": "Technique 31",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0031."
+  },
+  {
+    "techniqueID": "T0032",
+    "name": "Technique 32",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0032."
+  },
+  {
+    "techniqueID": "T0033",
+    "name": "Technique 33",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0033."
+  },
+  {
+    "techniqueID": "T0034",
+    "name": "Technique 34",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0034."
+  },
+  {
+    "techniqueID": "T0035",
+    "name": "Technique 35",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0035."
+  },
+  {
+    "techniqueID": "T0036",
+    "name": "Technique 36",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0036."
+  },
+  {
+    "techniqueID": "T0037",
+    "name": "Technique 37",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0037."
+  },
+  {
+    "techniqueID": "T0038",
+    "name": "Technique 38",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0038."
+  },
+  {
+    "techniqueID": "T0039",
+    "name": "Technique 39",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0039."
+  },
+  {
+    "techniqueID": "T0040",
+    "name": "Technique 40",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0040."
+  },
+  {
+    "techniqueID": "T0041",
+    "name": "Technique 41",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0041."
+  },
+  {
+    "techniqueID": "T0042",
+    "name": "Technique 42",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0042."
+  },
+  {
+    "techniqueID": "T0043",
+    "name": "Technique 43",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0043."
+  },
+  {
+    "techniqueID": "T0044",
+    "name": "Technique 44",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0044."
+  },
+  {
+    "techniqueID": "T0045",
+    "name": "Technique 45",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0045."
+  },
+  {
+    "techniqueID": "T0046",
+    "name": "Technique 46",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0046."
+  },
+  {
+    "techniqueID": "T0047",
+    "name": "Technique 47",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0047."
+  },
+  {
+    "techniqueID": "T0048",
+    "name": "Technique 48",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0048."
+  },
+  {
+    "techniqueID": "T0049",
+    "name": "Technique 49",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0049."
+  },
+  {
+    "techniqueID": "T0050",
+    "name": "Technique 50",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0050."
+  },
+  {
+    "techniqueID": "T0051",
+    "name": "Technique 51",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0051."
+  },
+  {
+    "techniqueID": "T0052",
+    "name": "Technique 52",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0052."
+  },
+  {
+    "techniqueID": "T0053",
+    "name": "Technique 53",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0053."
+  },
+  {
+    "techniqueID": "T0054",
+    "name": "Technique 54",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0054."
+  },
+  {
+    "techniqueID": "T0055",
+    "name": "Technique 55",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0055."
+  },
+  {
+    "techniqueID": "T0056",
+    "name": "Technique 56",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0056."
+  },
+  {
+    "techniqueID": "T0057",
+    "name": "Technique 57",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0057."
+  },
+  {
+    "techniqueID": "T0058",
+    "name": "Technique 58",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0058."
+  },
+  {
+    "techniqueID": "T0059",
+    "name": "Technique 59",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0059."
+  },
+  {
+    "techniqueID": "T0060",
+    "name": "Technique 60",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0060."
+  },
+  {
+    "techniqueID": "T0061",
+    "name": "Technique 61",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0061."
+  },
+  {
+    "techniqueID": "T0062",
+    "name": "Technique 62",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0062."
+  },
+  {
+    "techniqueID": "T0063",
+    "name": "Technique 63",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0063."
+  },
+  {
+    "techniqueID": "T0064",
+    "name": "Technique 64",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0064."
+  },
+  {
+    "techniqueID": "T0065",
+    "name": "Technique 65",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0065."
+  },
+  {
+    "techniqueID": "T0066",
+    "name": "Technique 66",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0066."
+  },
+  {
+    "techniqueID": "T0067",
+    "name": "Technique 67",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0067."
+  },
+  {
+    "techniqueID": "T0068",
+    "name": "Technique 68",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0068."
+  },
+  {
+    "techniqueID": "T0069",
+    "name": "Technique 69",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0069."
+  },
+  {
+    "techniqueID": "T0070",
+    "name": "Technique 70",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0070."
+  },
+  {
+    "techniqueID": "T0071",
+    "name": "Technique 71",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0071."
+  },
+  {
+    "techniqueID": "T0072",
+    "name": "Technique 72",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0072."
+  },
+  {
+    "techniqueID": "T0073",
+    "name": "Technique 73",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0073."
+  },
+  {
+    "techniqueID": "T0074",
+    "name": "Technique 74",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0074."
+  },
+  {
+    "techniqueID": "T0075",
+    "name": "Technique 75",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0075."
+  },
+  {
+    "techniqueID": "T0076",
+    "name": "Technique 76",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0076."
+  },
+  {
+    "techniqueID": "T0077",
+    "name": "Technique 77",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0077."
+  },
+  {
+    "techniqueID": "T0078",
+    "name": "Technique 78",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0078."
+  },
+  {
+    "techniqueID": "T0079",
+    "name": "Technique 79",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0079."
+  },
+  {
+    "techniqueID": "T0080",
+    "name": "Technique 80",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0080."
+  },
+  {
+    "techniqueID": "T0081",
+    "name": "Technique 81",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0081."
+  },
+  {
+    "techniqueID": "T0082",
+    "name": "Technique 82",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0082."
+  },
+  {
+    "techniqueID": "T0083",
+    "name": "Technique 83",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0083."
+  },
+  {
+    "techniqueID": "T0084",
+    "name": "Technique 84",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0084."
+  },
+  {
+    "techniqueID": "T0085",
+    "name": "Technique 85",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0085."
+  },
+  {
+    "techniqueID": "T0086",
+    "name": "Technique 86",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0086."
+  },
+  {
+    "techniqueID": "T0087",
+    "name": "Technique 87",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0087."
+  },
+  {
+    "techniqueID": "T0088",
+    "name": "Technique 88",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0088."
+  },
+  {
+    "techniqueID": "T0089",
+    "name": "Technique 89",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0089."
+  },
+  {
+    "techniqueID": "T0090",
+    "name": "Technique 90",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0090."
+  },
+  {
+    "techniqueID": "T0091",
+    "name": "Technique 91",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0091."
+  },
+  {
+    "techniqueID": "T0092",
+    "name": "Technique 92",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0092."
+  },
+  {
+    "techniqueID": "T0093",
+    "name": "Technique 93",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0093."
+  },
+  {
+    "techniqueID": "T0094",
+    "name": "Technique 94",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0094."
+  },
+  {
+    "techniqueID": "T0095",
+    "name": "Technique 95",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0095."
+  },
+  {
+    "techniqueID": "T0096",
+    "name": "Technique 96",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0096."
+  },
+  {
+    "techniqueID": "T0097",
+    "name": "Technique 97",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0097."
+  },
+  {
+    "techniqueID": "T0098",
+    "name": "Technique 98",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0098."
+  },
+  {
+    "techniqueID": "T0099",
+    "name": "Technique 99",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0099."
+  },
+  {
+    "techniqueID": "T0100",
+    "name": "Technique 100",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0100."
+  },
+  {
+    "techniqueID": "T0101",
+    "name": "Technique 101",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0101."
+  },
+  {
+    "techniqueID": "T0102",
+    "name": "Technique 102",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0102."
+  },
+  {
+    "techniqueID": "T0103",
+    "name": "Technique 103",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0103."
+  },
+  {
+    "techniqueID": "T0104",
+    "name": "Technique 104",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0104."
+  },
+  {
+    "techniqueID": "T0105",
+    "name": "Technique 105",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0105."
+  },
+  {
+    "techniqueID": "T0106",
+    "name": "Technique 106",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0106."
+  },
+  {
+    "techniqueID": "T0107",
+    "name": "Technique 107",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0107."
+  },
+  {
+    "techniqueID": "T0108",
+    "name": "Technique 108",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0108."
+  },
+  {
+    "techniqueID": "T0109",
+    "name": "Technique 109",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0109."
+  },
+  {
+    "techniqueID": "T0110",
+    "name": "Technique 110",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0110."
+  },
+  {
+    "techniqueID": "T0111",
+    "name": "Technique 111",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0111."
+  },
+  {
+    "techniqueID": "T0112",
+    "name": "Technique 112",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0112."
+  },
+  {
+    "techniqueID": "T0113",
+    "name": "Technique 113",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0113."
+  },
+  {
+    "techniqueID": "T0114",
+    "name": "Technique 114",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0114."
+  },
+  {
+    "techniqueID": "T0115",
+    "name": "Technique 115",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0115."
+  },
+  {
+    "techniqueID": "T0116",
+    "name": "Technique 116",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0116."
+  },
+  {
+    "techniqueID": "T0117",
+    "name": "Technique 117",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0117."
+  },
+  {
+    "techniqueID": "T0118",
+    "name": "Technique 118",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0118."
+  },
+  {
+    "techniqueID": "T0119",
+    "name": "Technique 119",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0119."
+  },
+  {
+    "techniqueID": "T0120",
+    "name": "Technique 120",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0120."
+  },
+  {
+    "techniqueID": "T0121",
+    "name": "Technique 121",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0121."
+  },
+  {
+    "techniqueID": "T0122",
+    "name": "Technique 122",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0122."
+  },
+  {
+    "techniqueID": "T0123",
+    "name": "Technique 123",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0123."
+  },
+  {
+    "techniqueID": "T0124",
+    "name": "Technique 124",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0124."
+  },
+  {
+    "techniqueID": "T0125",
+    "name": "Technique 125",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0125."
+  },
+  {
+    "techniqueID": "T0126",
+    "name": "Technique 126",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0126."
+  },
+  {
+    "techniqueID": "T0127",
+    "name": "Technique 127",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0127."
+  },
+  {
+    "techniqueID": "T0128",
+    "name": "Technique 128",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0128."
+  },
+  {
+    "techniqueID": "T0129",
+    "name": "Technique 129",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0129."
+  },
+  {
+    "techniqueID": "T0130",
+    "name": "Technique 130",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0130."
+  },
+  {
+    "techniqueID": "T0131",
+    "name": "Technique 131",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0131."
+  },
+  {
+    "techniqueID": "T0132",
+    "name": "Technique 132",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0132."
+  },
+  {
+    "techniqueID": "T0133",
+    "name": "Technique 133",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0133."
+  },
+  {
+    "techniqueID": "T0134",
+    "name": "Technique 134",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0134."
+  },
+  {
+    "techniqueID": "T0135",
+    "name": "Technique 135",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0135."
+  },
+  {
+    "techniqueID": "T0136",
+    "name": "Technique 136",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0136."
+  },
+  {
+    "techniqueID": "T0137",
+    "name": "Technique 137",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0137."
+  },
+  {
+    "techniqueID": "T0138",
+    "name": "Technique 138",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0138."
+  },
+  {
+    "techniqueID": "T0139",
+    "name": "Technique 139",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0139."
+  },
+  {
+    "techniqueID": "T0140",
+    "name": "Technique 140",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0140."
+  },
+  {
+    "techniqueID": "T0141",
+    "name": "Technique 141",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0141."
+  },
+  {
+    "techniqueID": "T0142",
+    "name": "Technique 142",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0142."
+  },
+  {
+    "techniqueID": "T0143",
+    "name": "Technique 143",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0143."
+  },
+  {
+    "techniqueID": "T0144",
+    "name": "Technique 144",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0144."
+  },
+  {
+    "techniqueID": "T0145",
+    "name": "Technique 145",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0145."
+  },
+  {
+    "techniqueID": "T0146",
+    "name": "Technique 146",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0146."
+  },
+  {
+    "techniqueID": "T0147",
+    "name": "Technique 147",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0147."
+  },
+  {
+    "techniqueID": "T0148",
+    "name": "Technique 148",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0148."
+  },
+  {
+    "techniqueID": "T0149",
+    "name": "Technique 149",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0149."
+  },
+  {
+    "techniqueID": "T0150",
+    "name": "Technique 150",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0150."
+  },
+  {
+    "techniqueID": "T0151",
+    "name": "Technique 151",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0151."
+  },
+  {
+    "techniqueID": "T0152",
+    "name": "Technique 152",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0152."
+  },
+  {
+    "techniqueID": "T0153",
+    "name": "Technique 153",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0153."
+  },
+  {
+    "techniqueID": "T0154",
+    "name": "Technique 154",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0154."
+  },
+  {
+    "techniqueID": "T0155",
+    "name": "Technique 155",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0155."
+  },
+  {
+    "techniqueID": "T0156",
+    "name": "Technique 156",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0156."
+  },
+  {
+    "techniqueID": "T0157",
+    "name": "Technique 157",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0157."
+  },
+  {
+    "techniqueID": "T0158",
+    "name": "Technique 158",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0158."
+  },
+  {
+    "techniqueID": "T0159",
+    "name": "Technique 159",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0159."
+  },
+  {
+    "techniqueID": "T0160",
+    "name": "Technique 160",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0160."
+  },
+  {
+    "techniqueID": "T0161",
+    "name": "Technique 161",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0161."
+  },
+  {
+    "techniqueID": "T0162",
+    "name": "Technique 162",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0162."
+  },
+  {
+    "techniqueID": "T0163",
+    "name": "Technique 163",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0163."
+  },
+  {
+    "techniqueID": "T0164",
+    "name": "Technique 164",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0164."
+  },
+  {
+    "techniqueID": "T0165",
+    "name": "Technique 165",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0165."
+  },
+  {
+    "techniqueID": "T0166",
+    "name": "Technique 166",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0166."
+  },
+  {
+    "techniqueID": "T0167",
+    "name": "Technique 167",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0167."
+  },
+  {
+    "techniqueID": "T0168",
+    "name": "Technique 168",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0168."
+  },
+  {
+    "techniqueID": "T0169",
+    "name": "Technique 169",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0169."
+  },
+  {
+    "techniqueID": "T0170",
+    "name": "Technique 170",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0170."
+  },
+  {
+    "techniqueID": "T0171",
+    "name": "Technique 171",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0171."
+  },
+  {
+    "techniqueID": "T0172",
+    "name": "Technique 172",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0172."
+  },
+  {
+    "techniqueID": "T0173",
+    "name": "Technique 173",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0173."
+  },
+  {
+    "techniqueID": "T0174",
+    "name": "Technique 174",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0174."
+  },
+  {
+    "techniqueID": "T0175",
+    "name": "Technique 175",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0175."
+  },
+  {
+    "techniqueID": "T0176",
+    "name": "Technique 176",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0176."
+  },
+  {
+    "techniqueID": "T0177",
+    "name": "Technique 177",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0177."
+  },
+  {
+    "techniqueID": "T0178",
+    "name": "Technique 178",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0178."
+  },
+  {
+    "techniqueID": "T0179",
+    "name": "Technique 179",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0179."
+  },
+  {
+    "techniqueID": "T0180",
+    "name": "Technique 180",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0180."
+  },
+  {
+    "techniqueID": "T0181",
+    "name": "Technique 181",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0181."
+  },
+  {
+    "techniqueID": "T0182",
+    "name": "Technique 182",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0182."
+  },
+  {
+    "techniqueID": "T0183",
+    "name": "Technique 183",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0183."
+  },
+  {
+    "techniqueID": "T0184",
+    "name": "Technique 184",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0184."
+  },
+  {
+    "techniqueID": "T0185",
+    "name": "Technique 185",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0185."
+  },
+  {
+    "techniqueID": "T0186",
+    "name": "Technique 186",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0186."
+  },
+  {
+    "techniqueID": "T0187",
+    "name": "Technique 187",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0187."
+  },
+  {
+    "techniqueID": "T0188",
+    "name": "Technique 188",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0188."
+  },
+  {
+    "techniqueID": "T0189",
+    "name": "Technique 189",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0189."
+  },
+  {
+    "techniqueID": "T0190",
+    "name": "Technique 190",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0190."
+  },
+  {
+    "techniqueID": "T0191",
+    "name": "Technique 191",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0191."
+  },
+  {
+    "techniqueID": "T0192",
+    "name": "Technique 192",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0192."
+  },
+  {
+    "techniqueID": "T0193",
+    "name": "Technique 193",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0193."
+  },
+  {
+    "techniqueID": "T0194",
+    "name": "Technique 194",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0194."
+  },
+  {
+    "techniqueID": "T0195",
+    "name": "Technique 195",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0195."
+  },
+  {
+    "techniqueID": "T0196",
+    "name": "Technique 196",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0196."
+  },
+  {
+    "techniqueID": "T0197",
+    "name": "Technique 197",
+    "tactic": "Tactic 1",
+    "description": "This is a simulated description for technique T0197."
+  },
+  {
+    "techniqueID": "T0198",
+    "name": "Technique 198",
+    "tactic": "Tactic 2",
+    "description": "This is a simulated description for technique T0198."
+  },
+  {
+    "techniqueID": "T0199",
+    "name": "Technique 199",
+    "tactic": "Tactic 3",
+    "description": "This is a simulated description for technique T0199."
+  },
+  {
+    "techniqueID": "T0200",
+    "name": "Technique 200",
+    "tactic": "Tactic 4",
+    "description": "This is a simulated description for technique T0200."
+  },
+  {
+    "techniqueID": "T0201",
+    "name": "Technique 201",
+    "tactic": "Tactic 5",
+    "description": "This is a simulated description for technique T0201."
+  },
+  {
+    "techniqueID": "T0202",
+    "name": "Technique 202",
+    "tactic": "Tactic 6",
+    "description": "This is a simulated description for technique T0202."
+  },
+  {
+    "techniqueID": "T0203",
+    "name": "Technique 203",
+    "tactic": "Tactic 7",
+    "description": "This is a simulated description for technique T0203."
+  },
+  {
+    "techniqueID": "T0204",
+    "name": "Technique 204",
+    "tactic": "Tactic 8",
+    "description": "This is a simulated description for technique T0204."
+  },
+  {
+    "techniqueID": "T0205",
+    "name": "Technique 205",
+    "tactic": "Tactic 9",
+    "description": "This is a simulated description for technique T0205."
+  },
+  {
+    "techniqueID": "T0206",
+    "name": "Technique 206",
+    "tactic": "Tactic 10",
+    "description": "This is a simulated description for technique T0206."
+  },
+  {
+    "techniqueID": "T0207",
+    "name": "Technique 207",
+    "tactic": "Tactic 11",
+    "description": "This is a simulated description for technique T0207."
+  },
+  {
+    "techniqueID": "T0208",
+    "name": "Technique 208",
+    "tactic": "Tactic 12",
+    "description": "This is a simulated description for technique T0208."
+  },
+  {
+    "techniqueID": "T0209",
+    "name": "Technique 209",
+    "tactic": "Tactic 13",
+    "description": "This is a simulated description for technique T0209."
+  },
+  {
+    "techniqueID": "T0210",
+    "name": "Technique 210",
+    "tactic": "Tactic 0",
+    "description": "This is a simulated description for technique T0210."
+  }
+]
